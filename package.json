@@ -41,6 +41,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "sweetalert2": "^9.17.2",
