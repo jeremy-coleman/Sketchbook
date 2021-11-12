@@ -14,6 +14,7 @@
   "main": "build/sketchbook.min.js",
   "types": "build/types/sketchbook.d.ts",
   "scripts": {
+    "start": "webpack-dev-server --config webpack.prod.js",
     "dev": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
