@@ -1,3 +1,8 @@
 .vscode
 node_modules
 
+build/assets/boxman_classic.glb
+src/blend/boxman.mtl
+src/blend/boxman.obj
+src/blend/boxman.fbx
+src/blend/boxman.blend1
